@@ -1,0 +1,31 @@
+table{
+    width: 75%;
+    table-layout: fixed;
+    text-align: center;
+}
+table th {
+    background-color: #4CAF50; 
+    color: rgb(0, 0, 0); 
+  }
+  
+ 
+  table tr:nth-child(even) {
+    background-color: #f2f2f2; 
+  }
+  
+ 
+  table tr:nth-child(odd) {
+    background-color: #dddddd;
+     
+  }
+  
+  
+  table td, table th {
+    border: 1px solid #f1eeee; 
+    border-bottom: 1px solid black;
+    padding: 5px;
+  }
+#pizarra{
+    border: 2px solid black;
+    background: red;
+}
