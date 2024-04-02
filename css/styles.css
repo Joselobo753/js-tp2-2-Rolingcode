@@ -1,3 +1,6 @@
+body{
+  background-color: #dcd8d8;
+}
 table{
     width: 75%;
     table-layout: fixed;
